@@ -15,5 +15,5 @@
 * ![WordPress](https://img.shields.io/badge/-WordPress-21759B?&logo=wordpress&logoColor=white) (work and school)
 
 ### Get in touch
-* [LinkedIn](https://www.linkedin.com/in/rodrigo-queiroz-280480206);
+* [LinkedIn](https://www.linkedin.com/in/rodrigo-queiroz-280480206)
 
