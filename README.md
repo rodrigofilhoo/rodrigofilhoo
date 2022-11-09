@@ -11,6 +11,7 @@
 #### Working on it 👌
 
 ### Currently learning
+* Nim (hobby)
 * C++ (hobby) 
 * WordPress (work and school)
 
