@@ -11,9 +11,8 @@
 #### Working on it 👌
 
 ### Currently learning
-* Nim (hobby)
-* C++ (hobby) 
-* WordPress (work and school)
+* ![Nim](https://img.shields.io/badge/-Nim-FFE953?&logo=nim&logoColor=white) (hobby)
+* ![WordPress](https://img.shields.io/badge/-WordPress-21759B?&logo=wordpress&logoColor=white) (work and school)
 
 ### Get in touch
 * [LinkedIn](https://www.linkedin.com/in/rodrigo-queiroz-280480206)
