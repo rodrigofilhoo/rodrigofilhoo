@@ -17,3 +17,6 @@
 ### Get in touch
 * [LinkedIn](https://www.linkedin.com/in/rodrigo-queiroz-280480206)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigofilho&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigofilho" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigofilho&show_icons=true&locale=en&layout=compact" alt="rodrigofilho" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigofilho&show_icons=true&locale=en" alt="rodrigofilho" /></p>
