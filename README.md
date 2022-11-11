@@ -10,8 +10,8 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySql-007ACC?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img align="center" alt="csharp" src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=61DAFB" />
 </div><br/>
 
 ### Notable projects
@@ -19,9 +19,9 @@
 #### Working on it 👌
 
 ### Currently learning
-* ![Nim](https://img.shields.io/badge/-Nim-FFE953?&logo=nim&logoColor=white) (hobby)
-* ![Vuepress](https://img.shields.io/badge/-Vuepress-4FC08D?&logo=vue.js&logoColor=white) (hobby)
-* ![WordPress](https://img.shields.io/badge/-WordPress-21759B?&logo=wordpress&logoColor=white) (work and school)
+* <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> (hobby)
+* <img align="center" alt="codeigniter" src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" /> (hobby)
+* <img align="center" alt="wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=Wordpress&logoColor=white" /> (work and school)
 
 ### Get in touch
 * [LinkedIn](https://www.linkedin.com/in/rodrigo-queiroz-280480206)
