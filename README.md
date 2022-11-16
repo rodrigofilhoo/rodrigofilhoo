@@ -16,7 +16,7 @@
 
 ### Notable projects
 
-#### Working on it 👌
+* ![CRUD em C# utilizando arquitetura em camadas](https://github.com/RodrigoFilho/crudMySql)
 
 ### Currently learning
 * <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> (hobby)
