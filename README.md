@@ -19,9 +19,9 @@
 * ![CRUD em C# utilizando arquitetura em camadas](https://github.com/RodrigoFilho/crudMySql)
 
 ### Currently learning
-* <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> (hobby)
-* <img align="center" alt="codeigniter" src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" /> (hobby)
-* <img align="center" alt="wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=Wordpress&logoColor=white" /> (work and school)
+* <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> (hobby);
+* <img align="center" alt="codeigniter" src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" /> (hobby);
+* <img align="center" alt="wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=Wordpress&logoColor=white" /> (work and school);
 
 ### Get in touch
 * [LinkedIn](https://www.linkedin.com/in/rodrigo-queiroz-280480206)
