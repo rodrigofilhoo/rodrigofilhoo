@@ -20,13 +20,13 @@
 * ![CRUD em C# utilizando arquitetura em camadas](https://github.com/RodrigoFilho/crudMySql)
 
 ### Currently learning
-* <img align="center" alt="python" src="https://img.shields.io/badge/Python-FF2D20?style=for-the-badge&logo=python&logoColor=yellow" /> (hobby & school);
+* <img align="center" alt="python" src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=blue" /> (hobby & school);
 * <img align="center" alt="codeigniter" src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" /> (hobby);
 * <img align="center" alt="wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=Wordpress&logoColor=white" /> (work and school);
 
 ### Get in touch
 * [LinkedIn](https://www.linkedin.com/in/rodrigo-queiroz-280480206)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigofilho&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigofilhoo" /> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigofilho&show_icons=true&locale=en&layout=compact" alt="rodrigofilho" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigofilho&show_icons=true&locale=en" alt="rodrigofilhoo" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigofilhoo&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigofilhoo" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigofilhoo&show_icons=true&locale=en&layout=compact" alt="rodrigofilhoo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigofilhoo&show_icons=true&locale=en" alt="rodrigofilhoo" /></p>
