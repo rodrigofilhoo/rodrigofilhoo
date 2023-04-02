@@ -20,7 +20,7 @@
 * ![CRUD em C# utilizando arquitetura em camadas](https://github.com/RodrigoFilho/crudMySql)
 
 ### Currently learning
-* <img align="center" alt="python" src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=blue" /> (hobby & school);
+* <img align="center" alt="python" src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=blue" /> (hobby & school);
 * <img align="center" alt="codeigniter" src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" /> (hobby);
 * <img align="center" alt="wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=Wordpress&logoColor=white" /> (work and school);
 
