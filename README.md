@@ -11,8 +11,10 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySql-007ACC?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img align="center" alt="csharp" src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=61DAFB" />
   <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img align="center" alt="csharp" src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=61DAFB" />
+
+  
 </div><br/>
 
 ### Notable projects
@@ -20,6 +22,7 @@
 * ![CRUD em C# utilizando arquitetura em camadas](https://github.com/RodrigoFilho/crudMySql)
 
 ### Currently learning
+* <img align="center" alt="java" src="https://img.shields.io/badge/Java-FF2D20?style=for-the-badge&logo=java&logoColor=white" /> (school);
 * <img align="center" alt="python" src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=blue" /> (hobby & school);
 * <img align="center" alt="codeigniter" src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" /> (hobby);
 * <img align="center" alt="wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=Wordpress&logoColor=white" /> (work and school);
