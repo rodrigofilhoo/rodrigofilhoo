@@ -23,7 +23,7 @@ import std/strformat
       name: "🏷️ Rodrigo",
       job: "💻Website PHP Developer"
       hobbie: "💻 Web Development and ⚔️🔴 Red Team"
-      favorite_language: "🖨️PHP (Web) | 💎 Ruby (Back)" 
+      favorite_language: "🖨️PHP (Web) | 💎 Java (Back)" 
       )]
     
       echo("Bem-vind@!")
