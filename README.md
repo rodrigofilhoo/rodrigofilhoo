@@ -2,7 +2,7 @@
 #### Full Stack Developer <img src="https://github.com/hahwul/hahwul/assets/13212227/af41f7bf-5b41-42dd-aed3-8560a6e3187d" width="50">
 
 
-* 💻 20y | Junior Dev * Ciência da Computação - 2⁰ Semestre.
+* 💻 20y | Junior Dev * Ciência da Computação - 3⁰ Semestre.
 * 🎴 Focus on Back-end
 * 🔐 Enthusiastic about information security
 * ⚔️ Learning Red Team, Pentest
