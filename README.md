@@ -42,7 +42,7 @@ import std/strformat
       <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-777BB4?style=for-the-badge&logo=windows&logoColor=61DAFB" />
       <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-777BB4?style=for-the-badge&logo=linux&logoColor=orange" />
       <img align="center" alt="MacOS" src="https://img.shields.io/badge/MacOS-777BB4?style=for-the-badge&logo=apple&logoColor=white" />
-      <img align="center" alt="Ruby" src="https://img.shields.io/badge/Ruby-777BB4?style=for-the-badge&logo=ruby&logoColor=red" />
+      <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-777BB4?style=for-the-badge&logo=dart&logoColor=purple" />
     </div>
     <hr height="1">
   </div>
