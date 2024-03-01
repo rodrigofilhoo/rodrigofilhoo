@@ -30,7 +30,7 @@ import std/strformat
 ```
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://media1.tenor.com/m/8mbkvqMv-DQAAAAC/gengar-hex-maniac.gif" width="400" height="300"/>
+<img align="right" src="https://media1.tenor.com/m/8mbkvqMv-DQAAAAC/gengar-hex-maniac.gif">
   <div align="left">
     <div>
       <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-777BB4?style=for-the-badge&logo=html5&logoColor=white" />
