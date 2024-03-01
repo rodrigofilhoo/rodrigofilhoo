@@ -30,7 +30,7 @@ import std/strformat
 ```
 
 <h3 align="left">Languages and Tools:</h3>
-  <img align="right" src="https://media3.giphy.com/media/ja8lF5chsV2XkfLnP6/giphy.gif?cid=ecf05e47qq412v5qo10ub0bwcrn5jwb7i1bjfl1jmguk7uqv&ep=v1_gifs_related&rid=giphy.gif&ct=g](https://tenor.com/pt-BR/view/gengar-hex-maniac-pokemon-umbrella-rain-gif-20488501">
+  <img align="right" src="https://tenor.com/pt-BR/view/gengar-hex-maniac-pokemon-umbrella-rain-gif-20488501](https://tenor.com/pt-BR/view/gengar-hex-maniac-pokemon-umbrella-rain-gif-20488501">
   <div align="left">
     <div>
       <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-777BB4?style=for-the-badge&logo=html5&logoColor=white" />
