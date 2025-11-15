@@ -32,7 +32,7 @@
     ├── /frameworks
     │   ├── flutter
     │   ├── asp.net
-    │   ├── react
+    │   ├── larvel
     │   └── node.js
     │   
     ├── /infra
