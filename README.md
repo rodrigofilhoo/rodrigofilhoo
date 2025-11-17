@@ -1,9 +1,8 @@
 <table>
   <tr>
     <td style="width: 50%;">
-      <img src="https://media1.tenor.com/m/8mbkvqMv-DQAAAAC/gengar-hex-maniac.gif" alt="Gengar" style="width: 200%; border: none;">
-    </td>
-
+      <img src="https://tenor.com/pt-BR/view/gengar-gif-7358158744463574398.gif" alt="Gengar" style="width: 200%; border: none;">
+      
 <td style="width: 50%; vertical-align: top;">
   
     /About_Me
